@@ -28,6 +28,7 @@ int main()
                 array[i+1]=aux;
             }
         }
+      i++;
     }
 
 
